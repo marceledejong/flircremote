@@ -1,0 +1,19 @@
+{
+  "name": "Flircremote",
+  "version": "0.0.1",
+  "description": "Flirc remote listener plugin for Volumio2",
+  "main": "keyboard.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marceldj",
+  "license": "ISC",
+  "volumio_info": {
+    "prettyName": "FLIRC Remote",
+    "plugin_type": "miscellanea",
+    "boot_priority": 10
+  },
+  "dependencies": {
+    "socket.io-client": "^1.4.5"
+  }
+}
