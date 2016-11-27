@@ -1,5 +1,5 @@
 {
-  "name": "Flircremote",
+  "name": "flircremote",
   "version": "0.0.1",
   "description": "Flirc remote listener plugin for Volumio2",
   "main": "keyboard.py",
